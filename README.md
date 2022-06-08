@@ -1,2 +1,1 @@
-# -Vanilla
-Vanilla Minecraft server files
+Please don't sue me Microsoft
